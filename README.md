@@ -191,6 +191,10 @@ streamlit run app.py
 
 ---
 
+## 🔗 Project Live Link
+
+👉 *(Add dashboard screenshots here)*
+
 ## 🎥 Video Demonstration
 
 👉 *(Add your demo video link here — YouTube / LinkedIn / Google Drive)*
